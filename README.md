@@ -54,7 +54,6 @@ This prototype taught me how to:
   <img src="screenshot-feed-animals.png" width="600"/>
 </p>
 
-> You can replace this placeholder with your actual screenshot and rename the image as needed.
 
 ---
 
