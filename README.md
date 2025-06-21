@@ -59,7 +59,7 @@ This prototype taught me how to:
 ---
 
 ## 📁 File Structure (Simplified)
-
+ ```
 Assets/
 ┣ Scripts/
 ┃ ┣ PlayerController.cs
@@ -69,7 +69,7 @@ Assets/
 ┣ Prefabs/
 ┣ Scenes/
 ┗ Materials/
-
+```
 
 ---
 
