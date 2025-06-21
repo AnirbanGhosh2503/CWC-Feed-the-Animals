@@ -15,7 +15,7 @@
 
 ## 🎮 Game Overview
 
-In **Feed the Animals**, you play a stationary launcher defending your spot from waves of hungry animals charging your way.  
+In **Feed the Animals**, you play a launcher (who can only move side to side in the scope of the screen) defending your spot from waves of hungry animals charging your way.  
 Your only weapon? Unlimited pizza (or projectiles of your choice)! 🍕
 
 This prototype taught me how to:
